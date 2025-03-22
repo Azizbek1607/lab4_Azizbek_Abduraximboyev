@@ -73,7 +73,6 @@ using namespace std;
 //     } else {
 //         cout << "Enter a number greater than 1." << endl;
 //     }
-//
 //     return 0;
 // }
 // int main() {

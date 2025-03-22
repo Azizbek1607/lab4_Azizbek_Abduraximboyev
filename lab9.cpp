@@ -66,18 +66,18 @@ using namespace std;
 //     return 0;
 // }
 //problem 6
-// int remainder(int num) {
-//     if (num < 10) {
-//         return num;
-//     }
-//     return remainder(num % 10);
-// }
-// int main() {
-//     int n;
-//     cin >> n;
-//     cout << remainder(n) << endl;
-//     return 0;
-// }
+ int remainder(int num) {
+     if (num < 10) {
+         return num;
+     }
+     return remainder(num % 10);
+ }
+ int main() {
+     int n;
+     cin >> n;
+     cout << remainder(n) << endl;
+     return 0;
+ }
 //problem 7
 // int sum(int n) {
 //     if (n/10==0 && n%10==0) {
@@ -145,19 +145,20 @@ using namespace std;
 //     return 0;
 // }
 //problem 11
-bool isPrime(int n, int divisor = 2) {
-    if (n < 2) return false;
-    if (divisor > sqrt(n)) return true;
-    if (n % divisor == 0) return false;
-    return isPrime(n, divisor + 1);
-}
-int main() {
-    int n;
-    cin >> n;
-    if (isPrime(n)) {
-        cout << n << " is a prime number" << endl;
-    } else {
-        cout << n << " is not a prime number" << endl;
-    }
-    return 0;
-}
+// bool isPrime(int n, int divisor = 2) {
+//     if (n < 2) return false;
+//     if (divisor > sqrt(n)) return true;
+//     if (n % divisor == 0) return false;
+//     return isPrime(n, divisor + 1);
+// }
+// int main() {
+//     int n;
+//     cin >> n;
+//     if (isPrime(n)) {
+//         cout << n << " is a prime number" << endl;
+//     } else {
+//         cout << n << " is not a prime number" << endl;
+//     }
+//     return 0;
+// }
+//problem 12
