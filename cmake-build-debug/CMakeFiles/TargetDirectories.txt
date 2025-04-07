@@ -1,0 +1,11 @@
+C:/Users/abdur/CLionProjects/lab4/cmake-build-debug/CMakeFiles/lab4.dir
+C:/Users/abdur/CLionProjects/lab4/cmake-build-debug/CMakeFiles/lab5.dir
+C:/Users/abdur/CLionProjects/lab4/cmake-build-debug/CMakeFiles/lab6problems.dir
+C:/Users/abdur/CLionProjects/lab4/cmake-build-debug/CMakeFiles/lab7.dir
+C:/Users/abdur/CLionProjects/lab4/cmake-build-debug/CMakeFiles/functions.dir
+C:/Users/abdur/CLionProjects/lab4/cmake-build-debug/CMakeFiles/lab9.dir
+C:/Users/abdur/CLionProjects/lab4/cmake-build-debug/CMakeFiles/lab10.dir
+C:/Users/abdur/CLionProjects/lab4/cmake-build-debug/CMakeFiles/lab11.dir
+C:/Users/abdur/CLionProjects/lab4/cmake-build-debug/CMakeFiles/lab12.dir
+C:/Users/abdur/CLionProjects/lab4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/abdur/CLionProjects/lab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
